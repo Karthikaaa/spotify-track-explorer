@@ -2,7 +2,7 @@ Track Explorer — Music Recommendation System (Ongoing)
 
 
 Project Overview
- Track Explorer is an ML-powered music recommendation system designed to suggest similar songs and genres based on audio features. This project uses a rich Spotify Tracks dataset containing over 114,000 songs across 125+ genres. It aims to combine cloud data processing, machine learning, and interactive UI design to build an engaging music discovery tool.
+/n Track Explorer is an ML-powered music recommendation system designed to suggest similar songs and genres based on audio features. This project uses a rich Spotify Tracks dataset containing over 114,000 songs across 125+ genres. It aims to combine cloud data processing, machine learning, and interactive UI design to build an engaging music discovery tool.
 
 
 Current Progress
